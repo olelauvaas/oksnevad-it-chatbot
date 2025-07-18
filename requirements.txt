@@ -3,3 +3,4 @@ python-docx
 langchain
 openai
 faiss-cpu
+langchain-community
