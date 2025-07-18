@@ -1,7 +1,7 @@
+
 streamlit
-python-docx
-docx2txt
 langchain
+langchain-community
+chromadb
 openai
-langchain-openai
-langchain-chroma
+python-docx
