@@ -1,10 +1,5 @@
-
 streamlit
 langchain
-langchain-community
 openai
-tiktoken
 python-docx
-unstructured
-unstructured[docx]
-chromadb
+faiss-cpu
