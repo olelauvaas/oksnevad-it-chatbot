@@ -14,7 +14,7 @@ openai_api_key = st.secrets["OPENAI_API_KEY"]
 # Function to build vector DB
 @st.cache_resource
 def build_vector_db():
-    loader = UnstructuredWordDocumentLoader("oksnevad-it.docx")
+    loader = UnstructuredWordDocumentLoader("faq.docx")
     documents = loader.load()
 
     text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
