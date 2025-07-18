@@ -2,5 +2,4 @@ streamlit
 python-docx
 langchain
 openai
-langchain-openai
-langchain-chroma
+faiss-cpu
