@@ -1,5 +1,6 @@
 streamlit
-langchain
 openai
-python-docx
-faiss-cpu
+langchain
+langchain-community
+chromadb
+docx2txt
