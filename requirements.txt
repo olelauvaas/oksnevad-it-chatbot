@@ -3,4 +3,5 @@ python-docx
 langchain
 openai
 langchain-openai
-langchain-chroma
+langchain-faiss
+
