@@ -1,6 +1,6 @@
 streamlit
-openai
+openai>=1.0.0
 langchain
 langchain-community
-chromadb
+faiss-cpu
 docx2txt
