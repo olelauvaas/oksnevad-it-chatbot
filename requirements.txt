@@ -2,6 +2,8 @@
 streamlit
 langchain
 langchain-community
-chromadb
 openai
+tiktoken
 python-docx
+unstructured
+unstructured[docx]
