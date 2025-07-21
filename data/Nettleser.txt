@@ -1,0 +1,46 @@
+﻿# Nettleser – din vei til internett
+
+En nettleser er verktøyet du bruker for å surfe på nettet – altså åpne nettsteder, bruke digitale læremidler, sjekke itslearning eller se kattunger på YouTube (hvis du har pause, altså).
+
+## Anbefaling fra IT-kontoret
+
+Vi anbefaler at du **installerer Google Chrome**. Hvorfor?
+
+- Den er rask.
+- Den fungerer godt med de fleste digitale tjenester vi bruker på skolen.
+- Den er stabil og oppdateres ofte.
+- Den finnes både for Windows, Mac, iPhone og Android.
+
+?? **Pro-tips:** Det er alltid lurt å ha **to nettlesere installert**. Hvis noe ikke funker i den ene, kan du prøve den andre. Dette løser overraskende mange problemer.
+
+## Hvilken nettleser har du fra før?
+
+| Enhet | Innebygd nettleser |
+|-------|---------------------|
+| PC (Windows) | Microsoft Edge |
+| Mac (Apple) | Safari |
+
+👉 Installer Chrome, og du har **to nettlesere klar til bruk**.
+
+## Last ned Chrome
+
+Last ned og installer Chrome fra den offisielle siden:  
+🔗 https://www.google.com/chrome/
+
+Bare trykk på knappen der det står **"Last ned Chrome"**, og følg instruksjonene.
+
+## Vanlige spørsmål
+
+### ❓ Må jeg bruke Chrome?
+
+Nei – men mange opplever at **ting virker bedre** i Chrome, spesielt når det gjelder digitale skoleverktøy.
+
+### ❓ Hva hvis noe ikke fungerer i nettleseren min?
+
+1. Prøv å åpne siden i en **annen nettleser**.  
+2. Sjekk at nettleseren din er **oppdatert**.  
+3. Hvis det fortsatt ikke fungerer – kontakt IT-kontoret!
+
+---
+
+🚀 **Konklusjon:** Installer Chrome, behold Edge/Safari, og du er godt rustet for alt det digitale skolehverdagen kaster på deg.

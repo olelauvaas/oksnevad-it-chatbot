@@ -1,0 +1,117 @@
+﻿# 💻 Last ned programmer
+
+## Kort fortalt  
+Skolen tilbyr flere programmer for både Windows og Mac. Noe lastes ned direkte, annet via RFK App Store (for Mac). Her får du oversikten – og lenkene som faktisk funker.
+
+---
+
+## 🛡️ Antivirus
+
+**Windows:**  
+Innebygd antivirus – du trenger ikke installere noe ekstra.
+
+**Mac:**  
+Last ned Avast Free Antivirus her:  
+https://www.avast.com/free-antivirus-mac
+
+---
+
+## 🍎 RFK App Store (Managed Software Center)
+
+Mac-brukere laster ned programmer via RFK App Store. Du må være koblet til skolens trådløse nett for at det skal fungere.
+
+Last ned og installer RFK App Store (PKG, 50 MB):  
+https://github.com/munki/munki/releases/download/v6.6.5/munkitools-6.6.5.4711.pkg
+
+Installeringsproblemer? Les denne veiledningen fra Apple:  
+https://support.apple.com/no-no/guide/mac-help/mh40616/mac
+
+---
+
+## 🧱 Åpne app fra ukjent utvikler (Mac)
+
+Noen programmer er ikke signert av Apple. Følg disse trinnene for å åpne dem:
+
+1. Gå til Apple-meny → Systeminnstillinger → Personvern og sikkerhet  
+2. Finn meldingen om appen og klikk **"Åpne likevel"**  
+3. Skriv inn passordet ditt  
+4. Appen er nå godkjent og kan åpnes senere
+
+---
+
+## 📚 Ordnett Pluss
+
+**Ordbokprogram** med norsk, engelsk, fransk, spansk og tysk.
+
+📖 Nettversjon – logg inn med Feide:  
+https://www.ordnett.no
+
+💾 Nedlasting for prøve/eksamen (Windows):  
+👉 Husk å avinstallere gammel versjon først  
+https://rfka.sharepoint.com/:u:/r/sites/Programvaredistribusjonelever/Delte%20dokumenter/ordnettpluss-3.3.7-rogaland_fylkeskommune.msi?csf=1&web=1&e=a5cvgi
+
+💻 Mac: Bruk RFK App Store  
+https://www.rogfk.no/vare-tjenester/skole-og-utdanning/opplaring-i-skole/elev-pc-og-ikt/last-ned-programmer/rfk-app-store-managed-software-center/
+
+📌 Ansatte henter programvare via Programvaresenteret (Windows) eller ved kontakt med IKT (Mac)
+
+---
+
+## 📕 Lingdys
+
+Lingdys er **ikke lenger tilgjengelig fra skolen**.  
+Elever må søke støtte hos NAV.
+
+Les mer: https://lingit.no/nav/
+
+Trenger du hjelp? Spør bibliotekaren.
+
+---
+
+## 🏫 Programvare fra forlag
+
+**Smart Bok – Gyldendal:**  
+https://www.smartbok.no/aktuelt/ikt-teknisk-informasjon-og-nyttige-lenker/
+
+**BrettBoka:**  
+https://brettboka.no/support/general/install-app
+
+---
+
+## 📘 Clue – Ordlisteprogram
+
+**Windows:**  
+Last ned Clue 10.16 (EXE, 122 MB)  
+https://rfka.sharepoint.com/:u:/r/sites/Programvaredistribusjonelever/Delte%20dokumenter/Clue10.16SetupFull.exe?csf=1&web=1&e=j4ZcZh
+
+Tips: Får du opp advarsel i Windows 11? Klikk på “Mer” og velg å installere.
+
+**Mac:**  
+Lastes ned via RFK App Store:  
+https://www.rogfk.no/vare-tjenester/skole-og-utdanning/opplaring-i-skole/elev-pc-og-ikt/last-ned-programmer/rfk-app-store-managed-software-center/
+
+📌 Gjelder elever. Ansatte må bruke Programvaresenteret eller kontakte IKT.
+
+---
+
+## 📐 GeoGebra
+
+Verktøy for matematikk – brukes mye i undervisningen.
+
+Last ned riktig versjon her:  
+https://www.geogebra.org/download
+
+---
+
+## 📝 Stavekontroll i MS Office
+
+Mangler du språk som fransk eller spansk i Word?
+
+**Windows:**  
+Last ned språkpakker her:  
+https://support.office.com/nb-no/article/Spr%C3%A5kpakke-for-Office-2016-82ee1236-0f9a-45ee-9c72-05b026ee809f
+
+**Mac:**  
+Andre språk er som regel allerede installert.  
+Slik aktiverer du dem:  
+https://support.office.com/nb-no/article/Tilgjengelige-korrekturverkt%C3%B8y-i-Office-2016-for-Mac-e175007d-193d-4efc-afce-5e27a59f1057

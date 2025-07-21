@@ -1,0 +1,97 @@
+﻿# 🔐 Brukernavn og passord
+
+## Kort fortalt  
+Brukernavn og passord er personlig og skal aldri deles med andre. Du trenger det for å logge inn på trådløst nett, Feide og Microsoft 365 (M365).
+
+---
+
+## ℹ️ Personlig tilgang  
+Brukernavnet og passordet ditt gir tilgang til skolens digitale tjenester – og det er kun ditt. Ikke del det med noen andre.
+
+Les mer her:  
+https://www.rogfk.no/vare-tjenester/skole-og-utdanning/opplaring-i-skole/reglement/vilkar-for-bruk-av-ikt-ressurser/
+
+---
+
+## ✅ Du bruker det til å logge inn på  
+- Trådløst nettverk  
+- Feide (for eksempel Teams og Visma InSchool)  
+- Microsoft 365 (e-post, OneDrive, Teams m.m.)
+
+---
+
+## 🚀 Kom i gang med M365  
+Du må aktivere kontoen din før bruk.  
+Gjør det her:  
+https://www.rogfk.no/vare-tjenester/skole-og-utdanning/opplaring-i-skole/elev-pc-og-ikt/microsoft-365-m365-konto/
+
+---
+
+## 🔁 Endre eller gjenopprette passord  
+Endre passord:  
+https://flyt-utdanning.rogfk.no/sspr/private/changepassword
+
+Glemt passord?  
+https://glemtpassord.rogfk.no
+
+Glemt brukernavn?  
+https://glemtbrukernavn.rogfk.no
+
+---
+
+## 📱 Har du fått nytt mobilnummer?
+
+Hvis du har byttet mobilnummer, må det oppdateres – ellers får du ikke tilsendt nytt passord.
+
+### Elever:
+Oppdater mobilnummeret ditt i Visma InSchool:  
+https://www.rogfk.no/vare-tjenester/skole-og-utdanning/opplaring-i-skole/inschool/
+
+### Lærlinger:
+Bruk Vigo-appen eller gå til:  
+https://vigo.no/
+
+### OT-ungdom:
+Kontakt OT-veilederen din for å oppdatere mobilnummeret.
+
+---
+
+## 🆕 Aktivering av brukeren din (gjelder nye elever)
+
+Når du er registrert som elev, vil du i begynnelsen av august få en SMS til telefonnummeret vi har registrert på deg.
+
+Meldingen inneholder en lenke du må klikke på for å godta brukervilkårene. Når du har godtatt vilkårene, får du kort tid etter en ny SMS med brukernavn og passord.
+
+🔔 Obs: Lenken er kun aktiv i 24 timer. Hvis du ikke rekker å aktivere innen fristen, ta kontakt med IKT på skolen – vi sender deg en ny lenke.
+
+Dette gjelder Feide-brukeren din. Den brukes til å logge inn i de fleste systemene vi benytter.
+
+👉 Det kan ta litt tid etter aktivering før kontoen virker i alle systemer.
+
+---
+
+## 🔄 Har du gått på videregående i Rogaland før?
+
+Dersom du nylig har vært elev i Rogaland fylkeskommune, kan det hende du allerede har en bruker. Da vil du ikke få aktiveringsmelding på nytt.
+
+Du kan i stedet få tilsendt nytt passord her:  
+https://glemtpassord.rogfk.no/pwsms.php
+
+
+---
+
+## 🔐 Kan IT-kontoret lage nytt passord?
+
+Ja, IT-kontoret kan tilbakestille passordet ditt. Når vi gjør det, får du en SMS som ser omtrent slik ut:
+
+**Nytt passord er: jtAXFk96539985  
+Dette kan endres på endrepassord.rogfk.no  
+Hilsen IKT-brukerhjelp, RFK**
+
+👉 Du må selv endre passordet til noe du husker. IT-kontoret kan ikke lage et enkelt passord for deg.
+
+Dersom du ikke mottar SMS-en:
+- Det kan være registrert feil mobilnummer  
+- Eller det er ikke lagt inn noe mobilnummer i det hele tatt
+
+🛠️ Ta kontakt med IKT hvis du trenger hjelp til å få oppdatert mobilnummeret ditt.

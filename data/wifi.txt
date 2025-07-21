@@ -1,0 +1,50 @@
+﻿# 📶 Trådløst nett (WiFi)
+
+## Kort fortalt  
+Du bruker Feide-brukeren din til å logge inn på skolens trådløse nettverk, som heter **ROGFK**.
+
+---
+
+## 🛰️ Hvordan koble til WiFi?
+
+1. Finn og velg nettverket **ROGFK** på mobilen eller datamaskinen din  
+2. Logg inn med brukernavn og passord (Feide)  
+3. Godkjenn nødvendige sertifikater
+4. Ferdig! Internett venter.
+
+🔐 Brukernavnet er det samme som du bruker til M365 og andre systemer
+
+---
+
+## 📱 Særtilfelle: Android
+
+Bruker du Android-telefon?  
+Da må du i tillegg velge:
+
+- **CA-sertifikat:** Velg **"Uspesifisert"** (eller "Do not validate" på engelsk)
+
+📌 Dette må gjøres én gang – så funker det.
+
+---
+
+## 🍏 iPhone og Samsung
+
+Som regel kobler iPhone og Samsung seg greit til uten styr.  
+Noen andre modeller kan ha ekstra trinn. Spør oss om du står fast – vi kjenner trikset.
+
+---
+
+## 🙋‍♂️ Gjest på besøk?
+
+Skal du bare låne litt internett som gjest?  
+Spør IT-kontoret – vi kan gi tilgang til **ROGFK-GJEST**.
+
+---
+
+## ?? Får du ikke koblet til?
+
+Det hender at ting klikker. Ta kontakt med IT-kontoret – vi hjelper deg med:
+
+- Pålogging som ikke fungerer  
+- Mobiltelefoner med egne meninger  
+- WiFi som lever sitt eget liv

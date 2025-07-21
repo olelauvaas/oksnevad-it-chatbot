@@ -1,0 +1,41 @@
+﻿# Skolebevis og PocketID
+
+## Hva er PocketID?
+
+**PocketID** er appen som brukes som digitalt skolebevis i Rogaland fylkeskommune.  
+På Øksnevad vgs bruker vi den også til utlån av bøker og datautstyr (PC og lader på dagslån).
+
+## Hvordan komme i gang?
+
+1. **Last ned PocketID** til mobilen din:
+
+   - 📱 [Android – Google Play](https://play.google.com/store/apps/details?id=no.pocketid.app130627&hl=en_US&gl=US&pli=1)  
+   - 🍏 [iPhone – App Store](https://apps.apple.com/no/app/pocketid/id1208092318)
+
+2. **Velg tilhørighet**: Rogaland fylkeskommune  
+3. **Logg inn med FEIDE** (brukernavn og passord du har fått på SMS)  
+4. **Godkjenn vilkårene**
+
+## Gi samtykke for bilde
+
+For at bilde av deg skal vises i skolebeviset:
+
+- Gå til **Profil** (ikon nederst til venstre)
+- Velg **Samtykke VIS**
+- Godkjenn at bildet ditt kan brukes i skolens administrative system
+
+📸 Dette gjør at vi kan bruke bildet ditt til skolebevis og elevregistrering.
+
+## Hva brukes PocketID til på Øksnevad?
+
+- Som **gyldig skolebevis**
+- For å **låne bøker i biblioteket**
+- For å **låne PC eller lader på dagslån**
+
+## Mer informasjon
+
+🔗 Les mer på: [https://pocketid.no/](https://pocketid.no/)
+
+---
+
+💡 **Tips:** Har du byttet telefon? Bare last ned appen igjen og logg inn med FEIDE.

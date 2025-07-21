@@ -1,0 +1,201 @@
+﻿# Kunstig intelligens (KI) i skolene
+KI kan hjelpe både lærere og elever på ulike måter, og slike tjenester kommer til å være en naturlig del av hverdagen til mange av elevene når de kommer ut i arbeidslivet.
+
+Vi vil at du skal bli god i å bruke kunstig intelligens, og vi vil at du skal:  
+• Reflektere kritisk rundt bruken  
+• Vite hvilke muligheter som finnes  
+• Lære hvordan du kan lage gode spørsmål og instruksjoner til kunstig intelligens  
+• Skjønne hva verktøyene er gode på – og hva de er dårlige på  
+• Reflektere over hvilke etiske og samfunnsmessige utfordringer KI fører til  
+
+NDLA (ndla.no) har lansert en trygg og sikker praterobot som elevene og de ansatte har lov å bruke i læringsarbeidet.  
+http://ndla.no/  
+
+ChatGPT og lignende tjenester oppfyller ikke personvernkravene fordi samtalehistorikken blir lagret hos leverandør, underleverandører og tredjeparter, og de deler personopplysninger.
+
+## Hva er KI?
+Kunstig intelligens (KI), eller "artificial intelligence" (AI) på engelsk, er et samlebegrep på datasystemer som kan lære av egne erfaringer og løse komplekse problemer i ulike situasjoner.
+
+Hvis en maskin kan løse problemer, utføre en oppgave eller vise andre kognitive funksjoner som et menneske kan, så kan vi si at det har kunstig intelligens.
+
+KI kan for eksempel brukes til å:
+- kjenne igjen ansikt  
+- oversette språk  
+- spille sjakk  
+- diagnostisere sykdommer  
+- kjøre biler  
+
+Kunstig intelligens deles ofte i to hovedkategorier:  
+• Kunstig generell intelligens (generative tjenester): Tjenesten har evne til å løse et bredt spekter av oppgaver.  
+• Kunstig spesialisert/smal intelligens (spesialiserte tjenester): Tjenesten er spesialisert på å løse én bestemt oppgave.
+
+### Språkmodeller
+Språkmodeller er en type kunstig intelligens som er opplært til å generere menneskeliknende tekst.  
+De er laget for å forstå og produsere naturlig språk, og passer godt til oppgaver som språkoversetting, tekstgenerering og tekstklassifisering.  
+
+For å bruke språkmodeller, trenger du en ledetekst – også kalt "prompt" – som gir modellen noe å svare på.
+
+Det finnes ulike språkmodeller. De største leverandørene er:
+- OpenAI (ChatGPT)  
+- Google (Gemini)
+
+Det arbeides også med å utvikle norske språkmodeller.
+
+Vil du lære mer om kunstig intelligens og språkmodeller?  
+Les artikkelen “På hvilken måte er ChatGPT intelligent?” av Odin Nøsen fra Randaberg kommune:  
+https://ai.randabergskolen.no/pa-hvilken-mate-er-chatgpt-intelligent-videoutgaven/
+
+## NDLA sin prate- og bilderobot
+Rogaland fylkeskommune er en del av NDLA-samarbeidet og har vurdert KI-tjenestene i Min NDLA ut fra funksjonalitet og personvernhensyn.  
+Konklusjonen er at disse tjenestene sikrer både funksjonalitet og personvern.
+
+NDLA sine prateroboter bruker språkmodellen GPT-4o mini, utviklet av OpenAI.  
+Du kan også velge GPT-4.0 og GPT-4o samt en bilderobot.
+
+Modellene kjøres på Microsofts europeiske servere. Det betyr at ingen data sendes ut av Europa.  
+NDLA lagrer ingen personopplysninger. Alt går direkte via Microsoft Azure OpenAI. Det du skriver inn, blir kun lagret i 30 dager og slettet etterpå. Microsoft leser bare loggene ved mistanke om misbruk.
+
+### Slik logger du inn:
+1. Gå til NDLA: http://ndla.no/ og velg Min NDLA  
+2. Logg på med Feide  
+3. Følg lenke til tjenesten  
+4. Du kan også gå direkte til:  
+   http://ndlarobot.org/
+
+Tjenesten er ikke tilgjengelig for de som har eksamen.
+
+## Veiledning for bruk av kunstig intelligens (KI) i skolen
+KI-feltet utvikler seg raskt, og det er ikke mulig å ha en komplett veileder.  
+Dette er derfor en foreløpig veiledning fra Rogaland fylkeskommune og vil bli revidert ved behov.
+
+Veiledningen gjelder bruk av:
+- tekstgenererende tjenester  
+- språkmodeller  
+- chatbot  
+- praterobot  
+- bilderobot  
+
+### 1. Ikke del sensitiv informasjon
+Skriv eller last ikke opp:
+- sensitiv informasjon  
+- taushetsbelagt informasjon  
+- personopplysninger  
+
+Dette er viktig grunnet personopplysningsloven (GDPR) og forvaltningsloven.
+
+### 2. Ikke last opp identifiserbare medier
+Ikke last opp bilde, video eller lyd som viser personer som kan gjenkjennes.  
+Bilder av personer regnes som personopplysninger etter GDPR.
+
+### 3. Krav om åpenhet
+Eleven kan bruke KI til å videreutvikle idéer og tekst, men:
+
+- KI skal ikke erstatte elevens eget arbeid  
+- Teksten skal omarbeides både underveis og til slutt  
+- Eleven må være åpen om hvordan og når KI er brukt  
+
+Dette kan for eksempel gjøres i et avsnitt i oppgaven eller i et vedlegg.
+
+Husk kildehenvisning i henhold til gjeldende mal – se for eksempel Kildekompasset.
+
+Dette gjelder også:
+- bilder  
+- lyd  
+- video  
+- andre medier  
+
+### 4. Vær kritisk til svarene
+Prateroboter bygger på statistikk – ikke forståelse.  
+Modellen vet ikke om svaret er riktig. Innholdet må alltid kvalitetssikres.
+
+### 5. Ikke bruk KI til fusk
+KI skal ikke brukes til å skrive hele eller deler av svar uten at det oppgis.  
+Det regnes som fusk i vurderingssituasjoner. Se skolereglene.
+
+### 6. Fagansvarlige vurderer elevarbeid
+Prateroboter kan brukes som støtte for veiledning underveis, men det er faglærer som vurderer elevarbeidet.
+
+---
+
+## Hvordan lage gode spørsmål til KI?
+
+Hva betyr "prompts"?  
+I KI-sammenheng betyr "prompts" ledetekst eller kommandoer du bruker i kommunikasjonen med KI.  
+Ledeteksten brukes til å definere både hvilken form KI skal svare i, og hva slags svar du får.
+
+Jo mer spesifikk ledeteksten er, jo bedre svar vil du få.
+
+👉 Tips:
+- Del oppgaven eller spørsmålet inn i mindre deler og sekvenser  
+- KI kan ikke lese tankene dine – vær tydelig  
+- Still oppfølgingsspørsmål  
+- Be om kortere svar hvis det er for langt  
+- Be om mer avansert svar hvis det er for lett  
+
+Se på KI som en ivrig medelev eller lærer som:
+- du kan spørre om alt  
+- aldri blir lei av å forklare  
+- alltid har tid  
+Dette er spesielt nyttig for elever som ikke tør å si at de ikke forstår, eller som ikke har noen å spørre hjemme.
+
+Siden dagens prateroboter er språkmodeller (ikke kunnskapsmodeller), er kvaliteten på spørsmålene dine avgjørende for resultatet.
+
+### Eksempler på gode spørsmål:
+• Hva er et synonym for [sett inn ord]?  
+• Oppsummer temaet [sett inn tema]  
+• Definer begrepet [sett inn begrep]  
+• Lag en liste over [sett inn tema]  
+• Gi eksempel på hvordan [sett inn begrep/tema]  
+• Forenkle dette: [sett inn tekst]  
+• Forkort dette: [sett inn tekst]  
+
+### Eksempler på kritisk tenkning og bruk av kunnskap:
+• La oss diskutere fordeler og ulemper med skoleuniformer. Du er imot, jeg er for. Du starter.  
+• La oss ha en samtale på spansk om hjemstedet mitt. Du starter med å spørre "hvor bor du?". Rett feilene i teksten min underveis.
+
+## Vurdering med og uten KI (mest for lærere)
+
+Utdanningsdirektoratet skriver i sine råd om KI i skolen:  
+https://www.udir.no/kvalitet-og-kompetanse/digitalisering-skole/kunstig-intelligens-ki-i-skolen/
+
+> “Legg vekt på variasjon i opplæring og vurdering. Utforsk tilnærminger som gir læreren trygghet på at det er elevens egen kompetanse som blir vurdert. (…) Skap en kultur for utprøving og evaluering av pedagogisk praksis."
+
+## Ressurser og verktøy
+
+### NDLA sin verktøykasse om kunstig intelligens  
+Undervisningsopplegg i flere fag, filmressurser, etikk og kritisk tenkning, bildegenerering og bruk av prateroboter.  
+Til NDLAs verktøykasse:  
+https://ndla.no/subject:1:9bb7b427-3f5b-4c45-9719-efc509f3d9cc/topic:de6229e4-6b04-45e9-8eb8-69d674e6ee97/
+
+### Tenk fra Faktisk.no  
+Kompetansepakke om KI for lærere og skoleledere. Økt kunnskap og bevissthet rundt KI og ChatGPT i skolen.  
+Kompetansepakken:  
+https://tenk.faktisk.no/kompetansepakke-om-kunstig-intelligens  
+
+Undervisningspakke for elever:  
+https://tenk.faktisk.no/samling/ki
+
+### Kompetansepakken til Udir  
+Gir grunnleggende innsikt i KI, og hvordan det henger sammen med læreplanene og pedagogisk praksis.  
+Til Udirs kompetansepakke:  
+https://bibsys.instructure.com/courses/637
+
+Udir har også andre relevante kompetansepakker:  
+https://bibsys.instructure.com/search/all_courses  
+
+Anbefalte temaer:
+- Teknologi og digitale ferdigheter i LK20  
+- Inkludering og universell utforming i digital praksis  
+- Digital undervisning – på skolen og hjemme
+
+### Rammeverk for vurdering: AIAS
+Lisa Stornes (lærer og e-pedagog i Nettskolen Rogaland) har laget videoer om vurdering basert på AIAS-rammeverket.
+
+Video:  
+https://youtu.be/w_WhW4RxFXY  
+
+Nettskolen Rogaland (YouTube-kanal):  
+https://www.youtube.com/@NettskolenRogaland-xg7jk
+
+Vil du lære mer om AIAS? Se sidene til Leon Furze:  
+https://leonfurze.com/2024/08/28/updating-the-ai-assessment-scale/

@@ -1,0 +1,93 @@
+﻿# InSchool
+
+InSchool er vårt skoleadministrative system og er tilgjengelig for medarbeidere, elever og foresatte.
+
+## Logg inn i InSchool
+
+Velg din skole i listen for å logge inn på skolens InSchool-side:  
+👉 Øksnevad vgs: https://oksnevad-vgs.inschool.visma.no/
+
+Tjenesten krever innlogging:  
+• Elever logger inn med Feide-konto  
+• Foresatte logger inn med ID-porten
+
+## Målet med InSchool
+
+Målet med InSchool er å legge til rette for å møte den videregående skolens framtidige behov ved å:
+
+- fornye, forenkle og forbedre arbeidsdagen til elever, lærere og skoleadministrasjonen  
+- legge til rette for kommunikasjon mellom skolen og hjemmet  
+- digitalisere skoleadministrasjon – mer elektronisk, automatisert og effektiv arbeidsflyt  
+- gi oversikt over at elevene har fått den opplæringen de har krav på
+
+## Tilganger for elever
+
+Ved skolestart får nye elever en SMS med informasjon om å aktivere sin bruker.  
+Denne brukeren gir tilgang til ulike tjenester skolen bruker.  
+Elever på Vg2/Vg3 bruker sin eksisterende brukerkonto.  
+
+Elever bruker Feide for å logge inn i InSchool.  
+De har også tilgang til **Min InSchool-app**.
+
+🎥 Se introduksjonsvideo for elever:  
+https://inschool.zendesk.com/hc/no/articles/360032163392-Visma-InSchool-Introduksjonsvideo-til-elevene
+
+## Tilganger for foresatte
+
+Foresatte med foreldreansvar for elever under 18 år får tilgang til:  
+• Egne kontaktopplysninger  
+• Timeplan  
+• Historikk (fravær, karakterer, skolebytte eller avbrutt utdanning)  
+• Klasser og grupper  
+
+Digitale forsendelser (som varselbrev og vedtak) sendes fra InSchool.  
+Bare foresatte registrert i Folkeregisteret med foreldreansvar mottar dette automatisk.
+
+📌 InSchool henter informasjon om foresatte fra Folkeregisteret:  
+- Navn og adresse  
+- E-post og telefonnummer hentes fra kontakt- og reservasjonsregisteret  
+- Foresatte kan selv legge inn eller endre e-post/telefon i InSchool  
+
+🛑 Viktig:  
+Foresatte **bruker ID-porten** for å logge inn.  
+Det finnes **ikke** en egen InSchool-app for foresatte.
+
+### Får du ikke tilgang til InSchool?
+
+Det er kun foresatte registrert med foreldreansvar for elever under 18 år som får tilgang automatisk.
+
+Sjekk din status ved å:
+1. Logge inn på Min side hos Skatteetaten:  
+   https://www.skatteetaten.no/person/
+
+2. Fylle ut skjema om foreldreansvar:  
+   http://www.skatteetaten.no/skjema/q-0199-samboererklaringavtale-om-foreldreansvar/
+
+📄 Foresatte til elever over 18 år:  
+Ingen automatisk tilgang. Det må signeres et samtykke fra eleven:
+
+PDF-skjema:  
+https://www.rogfk.no/_f/p1/i3c8a7912-694a-4605-ae57-67ad6f166048/samtykke-elever-over-18-foresatte-vis.pdf  
+
+Både samtykkeskjema og elevens samtykke må være på plass.  
+Se mer informasjon hos den enkelte skole.
+
+🎥 Se introduksjonsvideo for foresatte:  
+https://vimeo.com/466084677
+
+## Fakta om Visma InSchool
+
+• Alle fylkeskommunale videregående skoler i Norge bruker InSchool  
+• I Rogaland:  
+  - 17 400 elever  
+  - ca. 31 000 foresatte  
+  - 2 300 lærere  
+  - 930 ledere og administrative ansatte  
+• Visma er leverandør og utvikler  
+• InSchool har integrasjoner med andre fylkeskommunale systemer (lønn, regnskap m.m.)
+
+Les mer om Visma InSchool:  
+https://www.visma.no/skoleadministrasjon/videregaende-skole/
+
+📜 Les om behandling av personopplysninger i personvernerklæringen:  
+https://www.rogfk.no/footer/personvern-videregaende-skole.82711.aspx

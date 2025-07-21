@@ -1,0 +1,42 @@
+﻿# 🔑 Feide – felles innlogging
+
+## Kort fortalt  
+Feide er en felles innloggingstjeneste for skoler og utdanningsinstitusjoner. Du bruker den for å logge inn i ulike digitale tjenester skolen har avtale med.
+
+---
+
+## 👥 Hvem kan bruke Feide?
+
+- ??‍🎓 Elever, studenter og deltakere i voksenopplæring  
+- ❌ Ikke tilgjengelig for foresatte (Feide holder det profesjonelt)
+
+---
+
+## 📍 Hvor brukes Feide?
+
+Feide brukes til å logge inn i tjenester som:  
+- Visma InSchool  
+- Teams og Office 365  
+- Skolearena (for noen)  
+- Andre digitale verktøy med avtale gjennom fylkeskommunen
+
+Vil du vite akkurat hvilke tjenester du har tilgang til?  
+👉 Sjekk her: http://innsyn.feide.no/
+
+---
+
+## 😕 Problemer med innlogging?
+
+- **Elever, studenter og deltakere:**  
+  Ta kontakt med IKT på skolen  
+- **Ansatte:**  
+  Spør skolens IKT-ansvarlig eller kontakt Brukerhjelp 
+
+---
+
+## 💡 Tips fra IKT
+
+- Feide-brukeren din er den samme som du bruker til trådløst nett og M365  
+- Du må ha aktivert brukeren din for at Feide skal fungere  
+- Hvis du har byttet passord nylig – logg av og på igjen, så ting synker seg
+

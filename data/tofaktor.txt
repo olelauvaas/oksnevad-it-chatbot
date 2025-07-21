@@ -1,0 +1,63 @@
+﻿# Tofaktorpålogging i Microsoft 365 (M365)
+
+For å beskytte brukerkontoene våre, kreves **tofaktorautentisering (2FA)** når du logger inn i M365 **utenfor skolens nettverk**.
+
+Tofaktor betyr at du bruker både:
+- **Passord** (noe du vet), og  
+- **Kode fra mobilapp** (noe du har)
+
+Ja, det er et ekstra steg – men det er også en effektiv mur mot uvedkommende.
+
+---
+
+## 🔧 Hvordan setter jeg opp tofaktor?
+
+👉 Se denne korte instruksjonsvideoen (laget av elever ved Vågen vgs):  
+🎥 [Slik setter du opp tofaktor i M365](https://vimeo.com/908244913?fl=pl&fe=sh)
+
+---
+
+## 📲 Last ned Microsoft Authenticator
+
+Du trenger en app for å motta sikkerhetskoder. Vi anbefaler **Microsoft Authenticator**:
+
+🔗 [Last ned for Windows, Mac og mobil](https://www.microsoft.com/nb-no/security/mobile-authenticator-app)
+
+---
+
+## 🔄 Byttet telefon?
+
+Dersom du har fått ny telefon og ikke lenger får koder i Authenticator-appen, må tofaktorpåloggingen nullstilles.
+
+### 👨‍🎓 For elever:
+Du **kan ikke nullstille tofaktor selv**.  
+👉 Send en e-post til [brukerhjelp@rogfk.no](mailto:brukerhjelp@rogfk.no), eller ta kontakt med IT-kontoret på skolen.
+
+### 👩‍🏫 For ansatte:
+Du kan som regel nullstille tofaktor selv – slik gjør du det:
+
+1. Gå til [https://mysignins.microsoft.com](https://mysignins.microsoft.com)  
+2. Logg inn med din jobbkonto  
+3. Velg **"Sikkerhetsinformasjon"** i menyen  
+4. Klikk på **"Slett"** ved siden av den gamle Authenticator-appen  
+5. Klikk **"Legg til metode"** for å sette opp en ny
+
+> 📌 Tips: Når du setter opp ny telefon, gjør det mens du fortsatt har tilgang til den gamle – da slipper du ekstra styr.
+
+---
+
+## 🔐 Glemt passord?
+
+Ingen krise. Gå hit for å tilbakestille:  
+🔗 [https://glemtpassord.rogfk.no](https://glemtpassord.rogfk.no)
+
+---
+
+## 🆘 Hvem kan jeg kontakte?
+
+- **Tekniske spørsmål:** Kontakt **IKT-personalet på skolen**  
+- **Andre spørsmål:** Snakk med kontaktlærer, miljøpersonalet eller skolens ledelse
+
+---
+
+> 🧠 NB! Når du har satt opp tofaktor på en enhet, slipper du som regel å bruke koden hver gang – så det blir fort en vanesak.

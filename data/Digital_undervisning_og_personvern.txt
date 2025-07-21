@@ -1,0 +1,70 @@
+﻿# Digital undervisning og personvern
+
+📄 Denne siden forklarer hvordan digital undervisning gjennomføres samtidig som personvernet ivaretas ved videregående skoler i Rogaland fylkeskommune.
+
+👉 Dette er en tilpasset fremstilling for IT-hjelp og Custom GPT-bruk. Teksten bygger på offisielt innhold og er strukturert for klarhet – men ikke juridisk endret.
+
+---
+
+## 🎓 Nettundervisning
+
+Skolen trenger **ikke** be om samtykke fra deg for å drive nettbasert undervisning.
+
+🔴 **Men:** Dersom det skal tas opp **lyd eller bilde**, skal du bli bedt om samtykke.
+
+I **Microsoft Teams** må **alle i gruppa** samtykke til opptak for at det i det hele tatt skal være teknisk mulig å gjennomføre.
+
+---
+
+## 🎥 Kamera og mikrofon – praktiske råd
+
+- Skru av kamera og mikrofon hvis du ikke ønsker å være med på opptaket
+- Skru også gjerne av av hensyn til **nettkapasitet**
+- Hvis du har kameraet på:
+  - Velg uskarp bakgrunn
+  - Dette skjermer familie og andre som er i rommet
+
+---
+
+## 🎬 Oppgaver med lyd og video
+
+Lærer kan be deg:
+- Lage en video
+- Lage en lydfil
+- Lage en kort film
+
+📌 Dette kan være en del av en **oppgave eller fremlegg**.
+
+---
+
+## 💾 Lagring og deling
+
+- Bruk skolens **IKT-systemer** så langt som mulig
+- Lagring og deling skal skje via:
+  - **Læringsplattform**
+  - **Microsoft 365**
+- ❌ Ikke bruk:
+  - Dropbox
+  - Facebook
+  - Google Drive
+  - eller andre private skylagringstjenester til skolearbeid
+
+---
+
+## 💬 Kommunikasjon med lærer
+
+- Elevsamtaler kan gjennomføres via:
+  - **Videosamtaler**
+  - **Lydsamtaler**
+  - i Microsoft Teams
+- Ikke skriv sensitiv informasjon i Teams eller andre nettbaserte kanaler
+
+---
+
+## ℹ️ Spørsmål om personvern?
+
+- Les mer i skolens [personvernerklæring](https://www.rogfk.no/footer/personvern-videregaende-skole.82711.aspx)
+- Du kan også:
+  - Spørre en **lærer**
+  - Kontakte **skoleledelsen**
+  - Kontakte [personvernombudet](https://www.rogfk.no/om-fylkeskommunen/organisasjonen/personvernombodet/)

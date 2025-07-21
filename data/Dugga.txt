@@ -1,0 +1,40 @@
+﻿# Dugga – Ny digital prøveløsning
+
+## Hva er Dugga?
+
+**Dugga** er en digital plattform for prøver og vurdering – utviklet spesielt for skoler.  
+Løsningen brukes til alt fra små tester til store, sikre eksamener. I løpet av **høsten 2025** vil skolene i **Rogaland fylkeskommune** begynne å ta i bruk Dugga.
+
+Plattformen skal på sikt erstatte dagens løsninger for digital eksamen og vurdering.
+
+👉 Les mer:  
+🔗 https://dugga.com/
+
+## Hva gjør Dugga spesiell?
+
+- Dugga kan brukes med **Safe Exam Browser** (SEB), som sikrer at eleven ikke kan gå ut av prøven eller bruke andre programmer underveis.
+- Fungerer på PC, Mac, Chromebook og nettbrett.
+- Har støtte for ulike oppgavetyper: flervalg, kortsvar, langsvar, filopplasting, tegning og mer.
+- Gir mulighet for tilrettelegging og ekstra støttefunksjoner.
+
+## Hva betyr dette for deg?
+
+### 👩‍🏫 Lærere:
+- Kan lage prøver direkte i Dugga – med maler og automatisk vurdering på enkelte oppgavetyper.
+- Kan tilpasse prøver for elever med spesielle behov.
+- Har full oversikt over elevenes besvarelser og vurdering.
+
+### 🧑‍🎓 Elever:
+- Vil etter hvert gjennomføre digitale prøver og vurderinger i Dugga.
+- Logger inn med Feide.
+- Får en trygg og forutsigbar prøveopplevelse.
+
+## Når kommer det?
+
+Rogaland fylkeskommune planlegger å rulle ut Dugga **i løpet av høsten 2025**.  
+IT-avdelingen og skoleledelsen vil informere når løsningen er klar til bruk.
+
+---
+
+💬 **Spørsmål?**  
+Kontakt IT-kontoret, eller spør læreren din om hva som gjelder for din klasse.
