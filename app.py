@@ -1,6 +1,6 @@
 import streamlit as st
 import os
-from langchain_community.document_loaders import Docx2txtLoader
+from langchain_community.document_loaders import DirectoryLoader, TextLoader
 from langchain.embeddings import OpenAIEmbeddings
 from langchain.vectorstores import FAISS
 from langchain.text_splitter import CharacterTextSplitter
@@ -15,10 +15,12 @@ os.environ["OPENAI_API_KEY"] = openai_api_key
 # 🔍 Chatmodell (vennlig og informativ)
 llm = ChatOpenAI(model="gpt-4o", temperature=0.6)
 
-# 📄 Hent og del opp dokumentet
+# 📄 Hent og del opp alle .txt-filer fra mappen "data"
 @st.cache_resource
 def build_vector_db():
-    loader = Docx2txtLoader("faq.docx")
+    loader = DirectoryLoader(
+        "data", glob="**/*.txt", loader_cls=TextLoader, show_progress=True
+    )
     documents = loader.load()
     text_splitter = CharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
     texts = text_splitter.split_documents(documents)
