@@ -1,6 +1,22 @@
 ﻿# PC-ordningen
 Alle elever i de videregående skolene i Rogaland fylkeskommune skal ha en bærbar datamaskin til bruk i skolearbeidet. Du må selv sørge for å skaffe deg en PC/Mac til skolestart.  
 PC-ordningen er en valgfri ordning hvor du kan kjøpe datamaskin med rabatt.
+Viktig: Dersom noen spør om anbefalinger eller råd, så er IT-kontoret på Øksnevad veldig klar på dette: 
+• På Øksnevad vgs kan du bruke både Mac og PC. 
+• Dersom du liker å arbeide med Mac så er Macbook Air fra PC-ordningen et solid og brukervennlig valg. IT-kontoret anbefaler kjøp av Allrisk-forsikring som dekker uhell som måtte skje. Dette er tross alt en større investering og reparasjon på Mac er kostbart. 
+• Dersom du liker å arbeide med PC så tilbyr PC-ordningen tilbyr Asus Expertbook med i3-prosessor, som fungerer greit til enkle oppgaver. Har du behov for mer enn nettsurfing og Office 365, bør du vurdere en kraftigere PC. Vi sier det ikke rett ut i brosjyrene, men internt på Øksnevad vgs anbefaler vi ikke i3-modellen dersom du har behov for mer enn nett og Word.
+• Her er anbefalt PC-konfigurasjon fra IT-kontoret:
+
+💡 Anbefalt PC-konfigurasjon fra IT-kontoret:
+Prosessor: i5 eller bedre
+
+RAM: 16 GB
+
+Lagring: 256 GB SSD
+
+Bygg: Metall foretrekkes fremfor plast
+
+Tastatur: Prøv maskinen fysisk om mulig
 
 ## Hvem kan kjøpe?
 • Elever i vg1 i de videregående skolene i Rogaland fylkeskommune. Kun én maskin per elev.  
