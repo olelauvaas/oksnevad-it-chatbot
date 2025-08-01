@@ -1,30 +1,71 @@
-﻿# Agresso – for reiseregninger og mer
+﻿# Agresso / Unit4 / Økonomisystemer
 
-## Hva er Agresso?
+## Hva er Unit4 ERP?
 
-Agresso er fylkeskommunens system for økonomi og administrasjon.  
-For deg som jobber ved Øksnevad vgs betyr det i praksis: **reiseregninger og utgiftsrefusjon**.
+Økonomisystemet **Unit4 ERP** (ofte kalt Agresso) brukes til:
+- budsjettering  
+- reiseregninger  
+- lønn  
+- anvisning  
+- regnskapsførsel  
 
-Du finner Agresso via en snarvei på **Intranett**.
+## Hvem kontakter jeg ved spørsmål eller problemer?
 
-## Viktig å vite
+Hvis du har spørsmål knyttet til Unit4 ERP:  
+📧 Send e-post til: **unit4@rogfk.no**
 
-- ✋ **Agresso har egen brukerkonto**  
-  Den er **ikke** identisk med Feide.  
-  Har du ikke logget inn før? Spør noen som har!
+Du logger inn med **personlig brukernavn og passord** (NB: Dette er *ikke* FEIDE-pålogging).
 
-- 🧭 **IT-kontoret hjelper deg gjerne med tekniske problemer**,  
-  men **bruk av selve Agresso overlater vi til ekspertene**:
+## Hvordan logger jeg inn i Unit4 / Agresso?
 
-## Hvem kan hjelpe deg med Agresso?
+1. Gå til skolens intranett:  
+   👉 https://intranett.rogfk.no/intranett/
 
-- 💼 **Astrid på regnskap** – vår hovedkontakt for Agresso.  
-  Spør henne om alt fra satser til utfylling.
+2. Klikk på lenken for **Økonomisystemer**. Du vil se to valg:
+   - Én for pålogging fra **ROGFK-nett**
+   - Én for pålogging for **eksterne brukere** (utenfor fylkets nettverk)
 
-- 🙋 **Ida i resepsjonen** kan også hjelpe deg godt i gang –  
-  og vet hvem du skal spørre hvis hun ikke kan svare selv.
+3. Logg inn med:
+   - **Brukernavn**: Vanligvis et brukernavn med fire tegn, f.eks. LIMI  
+   - **Firma**: Skriv FK (forkortelse for Rogaland fylkeskommune)  
+   - **Passord**  
 
----
+## Hvordan får jeg brukerkonto?
 
-🎒 Skal du på reise i jobbens navn?  
-Husk å samle kvitteringer og føre reiseregning i Agresso når du er tilbake!
+📍 Ta kontakt med **Astrid på regnskap**.
+
+## Glemt brukernavn eller passord?
+
+1. Klikk på **"Glemt passordet?"**
+2. Skriv inn brukernavn og e-postadresse
+3. Ved fortsatt problemer, eller for bestilling av ny bruker eller tilgang:  
+   📧 Send e-post til **unit4@rogfk.no**
+
+## Hvor finner jeg appen for Unit4 Expenses?
+
+Reiseappen heter **Unit4 Expenses**. Den finnes i:
+- App Store (iPhone)
+- Google Play Store (Android)
+
+👉 Når du starter appen første gang, legg inn denne URL-en:  
+https://appsagresso.public.cloudservices.no/Rfkwebservices/service.svc?MobileAppTravelService/TravelV201212  
+_Tips: Kopier lenken og send den til deg selv på e-post – da er det lettere å lime inn på mobilen._
+
+## Hvordan fyller jeg ut reiseregning?
+
+1. Ta bilde av kvitteringer med mobilen  
+2. Last opp bildene i appen **Unit4 Expenses** og velg riktig utgiftskategori  
+   (Spør **Astrid på regnskap** eller en kollega hvis du er usikker)  
+3. Logg inn på Unit4 via intranettet og fullfør registreringen  
+4. Send til godkjenning
+
+📌 Merk: IT-kontoret er ikke eksperter på reiseregninger. Ved spørsmål – ta kontakt med Astrid.
+
+## Jeg trenger hjelp med Unit4 Expenses
+
+- **Start med å spørre Astrid** (regnskap)
+- Du kan også kontakte **IT-kontoret** for generelle spørsmål om bruk og tilgang
+- Ved tekniske problemer (f.eks. glemt brukernavn/passord):  
+  📧 Send e-post til **unit4@rogfk.no**
+
+De er vanligvis raske med å svare 👍

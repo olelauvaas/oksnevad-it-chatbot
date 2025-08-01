@@ -5,6 +5,32 @@
 
 ## Hva er Canva?
 
+(Se mer info under 'ℹ️ Hva er Canva')
+
+## ℹ️ Hva er Canva?
+
+**Canva** er et brukervennlig og kraftig designverktøy som fungerer rett i nettleseren. Det gjør det enkelt for både elever og ansatte å lage visuelt imponerende innhold – uten at man trenger å kunne noe om grafisk design.
+
+Canva kan brukes til å lage nesten *alt* som har med visuelt innhold å gjøre:
+
+- 🎓 **Skolearbeid**: Lag lekre presentasjoner, innleveringer og forsider som skiller seg ut – uten å bruke timevis på formatering.
+- 🖼️ **Grafisk design**: Lag plakater, infografikker, brosjyrer, visittkort, logoer og mye mer – med profesjonelle maler som utgangspunkt.
+- 📱 **Sosiale medier**: Lag ferdige innlegg, stories og bannere til Instagram, TikTok, Facebook og YouTube – inkludert optimaliserte formater.
+- 🎞️ **Video og animasjon**: Rediger video direkte i Canva – legg til musikk, tekst, overganger og animasjoner. Perfekt for alt fra reklameklipp til skolevideoer.
+- 📽️ **Presentasjoner**: Lag slides som faktisk ser bra ut – med overganger, ikoner og til og med innebygd video og lyd.
+- ✍️ **Samarbeid**: Flere kan jobbe sammen i samme design i sanntid – perfekt for gruppeoppgaver eller kollega-samarbeid.
+
+Canva fungerer på **PC, Mac, nettbrett og mobil** – og alt lagres i skyen. Du kan starte på én enhet og fortsette på en annen, uten å miste noe.
+
+Gjennom Rogaland fylkeskommune får du tilgang til **Canva for Education (Pro)** helt gratis – noe som betyr:
+- Tusenvis av premium-maler og bilder
+- Gratis fonter, musikk og video
+- Mulighet for å lage egne team og mapper
+- Ingen vannmerker eller begrensninger
+
+Med Canva har du et *profesjonelt designstudio* rett i nettleseren – enkelt nok for en nybegynner, kraftig nok for en ekspert.
+
+
 Canva er et brukervennlig designverktøy som fungerer rett i nettleseren.  
 Du trenger ikke erfaring med design – du bare drar og slipper.
 
@@ -37,7 +63,17 @@ På infosiden finner du også:
 - Ofte stilte spørsmål  
 - Informasjon om personvern og teknisk oppsett
 
----
+## Kurs og opplæring
+
+🎥 Ønsker du å bli superbruker raskt?  
+Sjekk ut denne **grundige og lettfattelige videoen** (på engelsk) laget av Kevin Stratvert:  
+👉 https://www.youtube.com/watch?v=CSlQtvLRhVk&t=36s  
+Videoen varer under én time og gir deg alt du trenger for å komme i gang som proff!
+
+📚 Lurer du på om det kommer kurs på skolen?  
+👉 Ta kontakt med **IT-kontoret** for mer informasjon.
+
+## Tips
 
 💡 **Tips til lærere:** Canva fungerer utmerket til fellesprosjekter og elevsamarbeid. Alt lagres i skyen, og du kan følge elevens progresjon.
 
