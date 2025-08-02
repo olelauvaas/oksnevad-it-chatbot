@@ -17,6 +17,16 @@ Plattformen skal på sikt erstatte dagens løsninger for digital eksamen og vurd
 - Har støtte for ulike oppgavetyper: flervalg, kortsvar, langsvar, filopplasting, tegning og mer.
 - Gir mulighet for tilrettelegging og ekstra støttefunksjoner.
 
+## Dugga i Microsoft Teams
+
+Dugga fungerer direkte i Microsoft Teams, noe som gjør det enkelt å integrere prøver i læringsplattformen:
+
+🎥 Hvordan bruke Dugga i Teams:
+- 🔗 https://dugga.com/teams/#demo
+- 🔗 https://dugga.com/dugga-makes-exams-possible-in-microsoft-teams-2/
+
+Disse sidene viser hvordan lærere og elever kan bruke Dugga direkte i Teams – med videoer, demo og veiledning.
+
 ## Hva betyr dette for deg?
 
 ### 👩‍🏫 Lærere:
