@@ -2,6 +2,9 @@
 
 InSchool er vårt skoleadministrative system og er tilgjengelig for medarbeidere, elever og foresatte.
 
+For generell brukerstøtte, se samlesiden for alle roller:  
+👉 https://inschool.zendesk.com/hc/no/categories/360003875298-Kurs-og-oppl%C3%A6ring
+
 ## Logg inn i InSchool
 
 Velg din skole i listen for å logge inn på skolens InSchool-side:  
@@ -29,8 +32,12 @@ Elever på Vg2/Vg3 bruker sin eksisterende brukerkonto.
 Elever bruker Feide for å logge inn i InSchool.  
 De har også tilgang til **Min InSchool-app**.
 
+📱 Brukerstøtte for Min InSchool-appen:  
+👉 https://inschool.zendesk.com/hc/no/sections/4410974938257-Min-InSchool-app
+
 🎥 Se introduksjonsvideo for elever:  
-https://inschool.zendesk.com/hc/no/articles/360032163392-Visma-InSchool-Introduksjonsvideo-til-elevene
+👉 https://inschool.zendesk.com/hc/no/articles/360032163392-Visma-InSchool-Introduksjonsvideo-til-elevene  
+👉 https://inschool.zendesk.com/hc/no/sections/360006051617-Introduksjon-for-elever
 
 ## Tilganger for foresatte
 
@@ -51,6 +58,9 @@ Bare foresatte registrert i Folkeregisteret med foreldreansvar mottar dette auto
 🛑 Viktig:  
 Foresatte **bruker ID-porten** for å logge inn.  
 Det finnes **ikke** en egen InSchool-app for foresatte.
+
+🎓 Introduksjon og støtte for foresatte:  
+👉 https://inschool.zendesk.com/hc/no/sections/360006051757-Introduksjon-for-foresatte
 
 ### Får du ikke tilgang til InSchool?
 
@@ -73,7 +83,13 @@ Både samtykkeskjema og elevens samtykke må være på plass.
 Se mer informasjon hos den enkelte skole.
 
 🎥 Se introduksjonsvideo for foresatte:  
-https://vimeo.com/466084677
+👉 https://vimeo.com/466084677
+
+## For lærere
+
+Lærere bruker InSchool til å føre fravær, vurdere elever, gi dokumentasjon og mer.  
+Support og opplæring for lærere finnes her:  
+👉 https://inschool.zendesk.com/hc/no/sections/360006106158-Kurs-4b-L%C3%A6rerens-oppgaver-mot-elevene
 
 ## Fakta om Visma InSchool
 
