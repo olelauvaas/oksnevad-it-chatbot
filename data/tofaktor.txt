@@ -49,7 +49,7 @@ Du kan som regel nullstille tofaktor selv – slik gjør du det:
 ## 🔐 Glemt passord?
 
 Ingen krise. Gå hit for å tilbakestille:  
-🔗 [https://glemtpassord.rogfk.no](https://glemtpassord.rogfk.no)
+🔗 [https://flyt-utdanning.rogfk.no/sspr/public/forgottenpassword](https://flyt-utdanning.rogfk.no/sspr/public/forgottenpassword)
 
 ---
 

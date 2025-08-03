@@ -29,7 +29,7 @@ Vil du vite akkurat hvilke tjenester du har tilgang til?
 
 Hvis du har glemt passordet ditt til Feide (skolekontoen), kan du tilbakestille det selv:
 
-👉 Gå til: https://glemtpassord.rogfk.no  
+👉 Gå til: https://flyt-utdanning.rogfk.no/sspr/public/forgottenpassword  
 Her logger du inn med BankID eller SMS-kode, og kan sette nytt passord.
 
 📌 Husk: Dette gjelder bare Feide / skolekonto – ikke Agresso eller andre systemer.

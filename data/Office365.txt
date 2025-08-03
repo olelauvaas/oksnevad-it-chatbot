@@ -25,8 +25,8 @@ https://m365.rogfk.no/
 Logg på med hele e-postadressen: `brukernavn@elev.rogfk.no`
 
 ## Glemt brukernavn eller passord?
-- Brukernavn: https://glemtbrukernavn.rogfk.no/  
-- Passord: https://glemtpassord.rogfk.no/
+- Brukernavn: https://flyt-utdanning.rogfk.no/sspr/public/forgottenpassword  
+- Passord: https://flyt-utdanning.rogfk.no/sspr/public/forgottenpassword
 
 ## Når du slutter
 Alt slettes når du slutter på skolen. Husk å ta backup av:
