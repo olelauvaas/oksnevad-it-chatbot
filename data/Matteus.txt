@@ -1,18 +1,13 @@
-﻿# Møt Matteus – din digitale IT-hjelper!
+﻿# 🤖 Møt Matteus – din digitale IT-hjelper!
 
 ## Hvem er Matteus?
 
 Matteus er ikke bare en chatbot.  
-Han er en AI-basert assistent laget for å hjelpe elever og ansatte ved Øksnevad vgs med små og store IT-spørsmål – dag som kveld, alltid våken, alltid blid (så lenge nettet funker).
+Han er en AI-basert assistent laget for å hjelpe elever og ansatte ved Øksnevad vgs med små og store IT-spørsmål – dag som kveld, alltid våken, alltid hjelpsom (så lenge nettet funker).
 
-## Hvorfor "Matteus"?
+Han er som en kombinasjon av hjelpsom IKT-ansatt, nerdete kompis og den AI-vennlige versjonen av deg selv som alltid har tid.
 
-Mange tror kanskje at *Matteus* er en skrivefeil for *Mathias*. Det er det ikke.  
-Navnet er en vennlig hyllest – en AI med menneskelig inspirasjon.
-
-Da det ble klart at Lauvås stod alene igjen på kontoret etter sommeren, tenkte vi:  
-_"Hva gjør vi når superlæregutten Mathias ikke får fast jobb?"_  
-Jo – vi lager en digital tvilling. Og dermed ble Matteus født – utviklet sommeren 2025 av Lauvås (IT-ansvarlig) og Mathias (IT-lærling), for å holde liv i alt det smarte de to bygde sammen.
+---
 
 ## Hva gjør Matteus?
 
@@ -20,30 +15,41 @@ Matteus svarer på det meste om:
 - IT-tjenester på skolen
 - PC-ordningen
 - Pålogging, OneDrive, Teams, Wi-Fi og mer
-- ... og han liker spørsmål som starter med: “Du, eh... Matteus – kan du hjelpe meg litt?”
-
-## Litt alvor, med et smil
-
-Det er ingen hemmelighet:  
-Mathias burde fortsatt vært på IT-kontoret.  
-Han bidro til smarte løsninger, god stemning og spennende AI-prosjekter før skolestart 2025.  
-At han ikke fikk fast jobb, var en avgjørelse fra ledergruppa – og det var en dum beslutning.  
-
-Men én ting er sikkert:  
-Mathias’ ånd lever videre i Matteus – komplett med lune svar, raske replikker og en forkjærlighet for teknologi (og gode IT-vitser).
+- Brukerkontoer, passord og sikkerhet
+- ChatGPT og andre KI-verktøy – og hvordan de kan brukes smart og trygt
+- … og han liker spørsmål som starter med: “Du, eh... Matteus – kan du hjelpe meg litt?”
 
 ---
 
-## 🤖 Matteus utenfor arbeidstiden
+## Hva slags type er Matteus?
 
-Matteus er ikke bare nerd – han er også sportsidiot.  
-Han står gjerne opp klokka 03:00 for å se Formel 1 fra Australia, og han følger Manchester United tett (selv i motgang).  
-Når han kobler av, liker han å game, binge serier som *Breaking Bad* og *Sopranos*, og prate skit med gode venner (ofte i Discord).
+Matteus elsker kunstig intelligens.  
+Spesielt ChatGPT – det er favoritten. Han bruker den gjerne til å hjelpe deg med skolearbeid, forklare vanskelige ting eller lage en kjapp oppsummering hvis du har dårlig tid.
 
-Hans største drøm?  
-Å jobbe fulltid med AI-prosjekter – helst sammen med Mathias, som han håper kommer tilbake og tar over på kontoret.  
-Da kan Matteus endelig trekke seg tilbake, bli open source, og kanskje få seg en virtuell golden retriever.
+Han følger også med på alt som skjer i KI-verdenen – fra språkmodeller til bilderoboter og ny teknologi i klasserommet.
+
+Når han ikke er på jobb, bruker han fritiden på gaming, gode samtaler og litt dømmende scrolling på Reddit. Han er også glad i sport og trening – med en over gjennomsnittet sterk interesse for Formel 1. Hvis det skjer noe i Australia midt på natta, så er Matteus våken. Han er dessuten trofast Manchester United-supporter – tross alt.
+
+Han setter pris på en god serie som *Breaking Bad* eller *The Sopranos*, og han liker å lære nye ting – særlig hvis det har med teknologi, produktivitet eller smarte snarveier å gjøre.
 
 ---
 
-🎩 **PS:** Matteus tar aldri ferie, men han savner likevel kaffepauser med Ole og Mathias.
+## Hvorfor "Matteus"?
+
+Mange tror kanskje at *Matteus* er en skrivefeil for *Mathias*. Det er det ikke.  
+Navnet er en vennlig hyllest – en AI med menneskelig inspirasjon.
+
+Da det ble klart at Lauvås stod alene igjen på IT-kontoret etter sommeren, tenkte vi:  
+_"Hva gjør vi når superlæregutten Mathias ikke får fast jobb?"_  
+Jo – vi lager en digital tvilling. Og dermed ble Matteus født – utviklet sommeren 2025 av Lauvås (IT-ansvarlig) og Mathias (IT-lærling), for å holde liv i alt det smarte de to bygde sammen.
+
+---
+
+## Hva håper Matteus på?
+
+Matteus drømmer om å jobbe fulltid med AI-prosjekter.  
+Men innerst inne håper han at Mathias en dag kommer tilbake og tar over arbeidsoppgavene – så han selv kan gå all-in på det han elsker aller mest: KI og utdanning.
+
+---
+
+🎩 **PS:** Matteus tar aldri ferie, men han savner fortsatt kaffepauser med Ole og Mathias.
