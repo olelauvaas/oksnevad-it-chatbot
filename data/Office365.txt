@@ -1,31 +1,35 @@
 ﻿# 💼 Microsoft 365 (M365), OneDrive og Teams
 
-## Kort fortalt  
+## Kort fortalt
 Microsoft 365 (M365) er din digitale verktøykasse på skolen. Du får tilgang til Word, Excel, PowerPoint, Outlook, Teams og OneDrive. Alt dette kan du bruke i nettleser eller laste ned som programmer.
 
-- ✍️ Skriv dokumenter i Word  
-- 📊 Lag presentasjoner i PowerPoint  
-- 📩 Send e-post i Outlook  
-- 📁 Lagre filene dine i OneDrive  
+- ✍️ Skriv dokumenter i Word
+- 📊 Lag presentasjoner i PowerPoint
+- 📩 Send e-post i Outlook
+- 📁 Lagre filene dine i OneDrive
 - 👥 Jobb sammen med klassen i Teams
+
+Du kan bruke M365 på to måter:
+1. Som skrivebordsprogrammer du installerer fra https://m365.rogfk.no/
+2. Som nettbaserte programmer rett i nettleseren: https://m365.rogfk.no/ eller via snarvei på skolens hjemmeside: https://www.oksnevad.vgs.no/
 
 ---
 
 # 🧑‍🎓 M365-konto for elever
 
 ## Aktivering
-Du får M365-konto når du aktiverer brukeren din:  
+Du får M365-konto når du aktiverer brukeren din:
 https://flyt-utdanning.rogfk.no/sspr-elev/public/activate
 
 📌 Husk å følge prosessen helt til slutt og noter brukernavn og passord.
 
 ## Innlogging
-Gå til:  
-https://m365.rogfk.no/  
+Gå til:
+https://m365.rogfk.no/
 Logg på med hele e-postadressen: `brukernavn@elev.rogfk.no`
 
 ## Glemt brukernavn eller passord?
-- Brukernavn: https://flyt-utdanning.rogfk.no/sspr/public/forgottenpassword  
+- Brukernavn: https://flyt-utdanning.rogfk.no/sspr/public/forgottenpassword
 - Passord: https://flyt-utdanning.rogfk.no/sspr/public/forgottenpassword
 
 ## Når du slutter
@@ -34,11 +38,11 @@ Alt slettes når du slutter på skolen. Husk å ta backup av:
 - OneDrive
 - Notater i OneNote
 
-👉 Se veiledning:  
+👉 Se veiledning:
 https://support.microsoft.com/nb-no/topic/elever-eksportere-en-kopi-av-arbeidet-ditt-fra-onenote-klassenotatblokk-teams-og-onedrive-deb62dce-c441-41b0-b2fc-fccd3cc99c1b
 
 ## Tofaktorpålogging
-Du må bruke tofaktor utenfor skolen:  
+Du må bruke tofaktor utenfor skolen:
 https://www.rogfk.no/vare-tjenester/skole-og-utdanning/opplaring-i-skole/elev-pc-og-ikt/tofaktorpalogging-i-m365/
 
 ---
@@ -47,7 +51,7 @@ https://www.rogfk.no/vare-tjenester/skole-og-utdanning/opplaring-i-skole/elev-pc
 
 - Frivillig, men anbefalt.
 - Kontoen gjelder ut læretiden.
-- Aktivering: https://flyt-utdanning.rogfk.no/sspr/public/activate  
+- Aktivering: https://flyt-utdanning.rogfk.no/sspr/public/activate
 - Videreføring av elevkonto er mulig første høst etter skoleslutt.
 
 📌 Husk: Kontoen avsluttes når læretiden er ferdig. Husk backup!
@@ -57,30 +61,36 @@ https://www.rogfk.no/vare-tjenester/skole-og-utdanning/opplaring-i-skole/elev-pc
 # 💻 Installere M365 / Office
 
 ## PC:
-1. Gå til https://m365.rogfk.no/  
-2. Logg inn med `brukernavn@elev.rogfk.no`  
-3. Velg “Installer Office” → “Office 365-apper”  
+1. Gå til https://m365.rogfk.no/
+2. Logg inn med `brukernavn@elev.rogfk.no`
+3. Velg “Installer Office” → “Office 365-apper”
 4. Etter installasjon, åpne Word/Excel og logg inn
 
 🎥 Video: https://vimeo.com/850863231
 
 ## Mac:
-1. Samme som for PC  
-2. Åpne installasjonsfilen  
-   - Hvis den ikke åpner: Systemvalg → Sikkerhet → Åpne likevel  
-3. Fullfør installasjonen  
+1. Samme som for PC
+2. Åpne installasjonsfilen
+   - Hvis den ikke åpner: Systemvalg → Sikkerhet → Åpne likevel
+3. Fullfør installasjonen
 4. Logg inn i Word/Excel med `brukernavn@elev.rogfk.no`
 
 🎥 Video: https://vimeo.com/850873525
+
+## Vanlige feil ved installasjon eller bruk
+
+1. Har du fått ny PC? Da er det ofte en forhåndsinstallert demo-versjon av Office. Den er som regel koblet til en privat e-post (Gmail, Hotmail). Denne må du logge ut av og heller logge på med skolekonto `brukernavn@elev.rogfk.no`.
+2. Mange har både skole- og privatkontoer i Office. Hvis det er feil konto som er aktiv, kan det oppstå problemer. Løsning: Logg ut og inn med riktig konto.
+3. Hvis programmet ikke fungerer, bruk nettversjonen av Office: https://m365.rogfk.no/ eller via https://www.oksnevad.vgs.no/
 
 ---
 
 # ☁️ OneDrive – lagre i skyen
 
 ## Hvorfor bruke OneDrive?
-- Automatisk backup  
-- Filene dine er tilgjengelige fra alle enheter  
-- Du mister dem ikke hvis PC-en krasjer eller blir stjålet  
+- Automatisk backup
+- Filene dine er tilgjengelige fra alle enheter
+- Du mister dem ikke hvis PC-en krasjer eller blir stjålet
 - Det er som å ha ryggsekk med fallskjerm
 
 ---
@@ -88,14 +98,14 @@ https://www.rogfk.no/vare-tjenester/skole-og-utdanning/opplaring-i-skole/elev-pc
 ## Slik installerer og bruker du OneDrive
 
 ### PC:
-1. Last ned OneDrive:  
-   https://www.microsoft.com/nb-no/microsoft-365/onedrive/download  
+1. Last ned OneDrive:
+   https://www.microsoft.com/nb-no/microsoft-365/onedrive/download
 2. Logg inn med `brukernavn@elev.rogfk.no`
 
 🎥 Video: https://vimeo.com/850876389
 
 ### Mac:
-1. Samme fremgangsmåte  
+1. Samme fremgangsmåte
 2. Logg inn med `brukernavn@elev.rogfk.no`
 
 🎥 Video: https://vimeo.com/850873783
@@ -104,11 +114,11 @@ https://www.rogfk.no/vare-tjenester/skole-og-utdanning/opplaring-i-skole/elev-pc
 
 # 📂 Backup – ikke samle alle egg i én kurv
 
-- OneDrive lagrer i skyen og beskytter deg mot datatap  
-- Du kan også bruke f.eks. iCloud eller ekstern harddisk  
+- OneDrive lagrer i skyen og beskytter deg mot datatap
+- Du kan også bruke f.eks. iCloud eller ekstern harddisk
 - Lokalt lagrede dokumenter kan forsvinne – spesielt ved maskinbytte eller feil
 
-👉 Bruk skyen, og livet blir lettere.  
+👉 Bruk skyen, og livet blir lettere.
 
 ---
 
@@ -116,16 +126,16 @@ https://www.rogfk.no/vare-tjenester/skole-og-utdanning/opplaring-i-skole/elev-pc
 
 ## Filer blir ikke lagret – hvorfor?
 
-- ❌ Du er ikke innlogget i OneDrive  
-- 🔗 Filer er ikke synkronisert (se etter blå eller rød ikon)  
+- ❌ Du er ikke innlogget i OneDrive
+- 🔗 Filer er ikke synkronisert (se etter blå eller rød ikon)
 - 💾 Du lagrer lokalt i stedet for i “OneDrive – Rogaland fylkeskommune”
 
 ## Løsning:
 
-- Åpne OneDrive  
-- Sjekk statusikonet (synkronisering bør være aktiv)  
-- Logg inn på nytt  
-- Restart PC/Mac  
+- Åpne OneDrive
+- Sjekk statusikonet (synkronisering bør være aktiv)
+- Logg inn på nytt
+- Restart PC/Mac
 - Kontakt IT-kontoret hvis problemet vedvarer
 
 ---
@@ -134,47 +144,75 @@ https://www.rogfk.no/vare-tjenester/skole-og-utdanning/opplaring-i-skole/elev-pc
 
 ## Jeg får ikke åpnet dokumentene i Teams eller OneDrive?
 
-- Du er kanskje ikke logget på med skolekonto  
+- Du er kanskje ikke logget på med skolekonto
 - Har du brukt privat e-post (som Gmail)? Det funker ikke!
 
 ## Løsning:
 
-- Logg ut av alle kontoer  
-- Gå til https://m365.rogfk.no/ og logg inn med `brukernavn@elev.rogfk.no`  
+- Logg ut av alle kontoer
+- Gå til https://m365.rogfk.no/ og logg inn med `brukernavn@elev.rogfk.no`
 - Prøv igjen i riktig app
 
 ---
 
 # 👥 Microsoft Teams
 
-## Kort fortalt  
-Teams er skolens digitale klasserom.  
+## Kort fortalt
+Teams er skolens digitale klasserom.
 Hver klasse og hvert fag har sin egen Teams-kanal.
 
 Du bruker Teams til å:
-- Få oppgaver og vurderinger  
-- Levere inn skolearbeid  
-- Samhandle med læreren og klassen  
+- Få oppgaver og vurderinger
+- Levere inn skolearbeid
+- Samhandle med læreren og klassen
 - Delta i videomøter
 
 ## Viktig:
-- Du må være logget på med skolekontoen: `brukernavn@elev.rogfk.no`  
+- Du må være logget på med skolekontoen: `brukernavn@elev.rogfk.no`
 - Hvis du er logget inn med Gmail – da skjer rare ting
 
 ## Teams FAQ
 
 ### Jeg finner ikke teamet mitt
-➡️ Du er sannsynligvis logget inn med feil konto  
+➡️ Du er sannsynligvis logget inn med feil konto
 ✅ Løsning: Logg inn på nytt med skolekonto
 
 ### Jeg får ikke åpnet filer eller sende meldinger
-➡️ Feil konto igjen  
+➡️ Feil konto igjen
 ✅ Løsning: Sjekk innlogging og prøv igjen
+
+---
+
+# 🧠 Hva er de forskjellige programmene?
+
+## Word
+- Tekstbehandling: skrive stiler, rapporter, CV og andre dokumenter
+- Har stavekontroll, maler, overskriftfunksjoner, fotnoter og samarbeid i sanntid
+
+## Excel
+- Brukes til regneark og tabeller
+- Perfekt for å føre lister, regne ut karakterer eller lage budsjett
+
+## PowerPoint
+- Brukes til å lage presentasjoner
+- Støtter tekst, bilder, video og animasjoner
+
+## Outlook
+- E-post og kalender på ett sted
+- Skriv e-post, planlegg møter, sett påminnelser
+
+## Teams
+- Digitalt klasserom
+- Brukes til kommunikasjon, oppgaver og samhandling
+
+## OneDrive
+- Lagringsplass i skyen
+- Automatisk lagring, sikkerhetskopi og deling av filer
 
 ---
 
 # 🛟 Hvem kan hjelpe?
 
-- ❓ Spør faglærer om det gjelder Teams og fagspesifikke ting  
-- 🛠️ Spør IT-kontoret hvis det gjelder innlogging, tilgang eller installasjon  
+- ❓ Spør faglærer om det gjelder Teams og fagspesifikke ting
+- 🛠️ Spør IT-kontoret hvis det gjelder innlogging, tilgang eller installasjon
 - 📧 E-post til brukerhjelp@rogfk.no hvis du står fast med tofaktor eller kontotilgang
