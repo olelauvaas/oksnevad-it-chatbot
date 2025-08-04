@@ -1,4 +1,27 @@
 ﻿# PC-ordningen
+## Hjelp ved feil på maskinen
+
+Hvis du har problemer med Mac eller PC, skal du ta direkte kontakt med riktig leverandør – basert på hvilken maskin du har og hvilket skoleår den ble kjøpt. Her er oversikten:
+
+**Mac (Eplehuset)**
+- Telefon: 73 20 24 00
+- E-post: elevmac.rogaland@eplehuset.no
+- Serviceportal: https://elevmac.no/rogaland-fylkeskommune
+
+**Asus-PC (fra og med skoleåret 2025–26)**
+- Telefon: 480 33 111
+- E-post: elevpc@elkjop.no
+- Serviceportal: https://elevpc-rogaland.elkjop.no/#/cms/service--support
+
+**Dell-PC (fra skoleårene 2021–22 til 2024–25)**
+- Telefon (direkte Dell): 67 11 75 16
+- Komplett (alternativ): 33 00 51 30 | elevpc@komplettbedrift.no | https://www.komplett.no/
+
+**HP-PC (før skoleåret 2021–22)**
+- Telefon: 23 50 20 19 (innvalg 3)
+- Atea support: https://www.atea.no/kundestotte/service-og-support/
+
+---
 Alle elever i de videregående skolene i Rogaland fylkeskommune skal ha en bærbar datamaskin til bruk i skolearbeidet. Du må selv sørge for å skaffe deg en PC/Mac til skolestart.  
 PC-ordningen er en valgfri ordning hvor du kan kjøpe datamaskin med rabatt.
 Viktig: Dersom noen spør om anbefalinger eller råd, så er IT-kontoret på Øksnevad veldig klar på dette: 
