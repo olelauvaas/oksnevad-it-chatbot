@@ -114,202 +114,60 @@ På denne siden får du hjelp til å kontakte support:
 https://www.rogfk.no/vare-tjenester/skole-og-utdanning/opplaring-i-skole/elev-pc-og-ikt/pc-ordningen/support-og-kontaktinformasjon/
 
 ## Support og kontakt om reparasjoner
-Dersom du får feil på PC eller Mac kjøpt på fylkeskommunens rammeavtale med Elkjøp, Komplett (før 2025), Atea (før 2021) eller Eplehuset må du kontakte leverandøren direkte.
+## Support og kontakt om reparasjoner
 
-### Melde feil
+Hvis du har problemer med PC eller Mac kjøpt via fylkeskommunens ordning, skal du ta direkte kontakt med riktig leverandør – basert på **maskintype** og **når du kjøpte den**.
 
-**Kjøpt maskin (Asus) fra og med skoleåret 2025–26**  
-• Elev-PC Support  
-  - Telefon: 480 33 111  
-  - E-post: elevpc@elkjop.no  
-  - Serviceskjema og fremgangsmåte:  
-    https://elevpc-rogaland.elkjop.no/#/cms/service--support
+### Mac
+**Gjelder alle Mac-er fra Eplehuset**
+- 📞 Telefon: 73 20 24 00  
+- 📧 E-post: elevmac.rogaland@eplehuset.no  
+- 🌍 Serviceportal: [elevmac.no/rogaland-fylkeskommune](https://elevmac.no/rogaland-fylkeskommune)  
+- 🔒 Allrisk-forsikring: [Les mer](https://elevmac.no/rogaland-fylkeskommune)
 
-**Kjøpt maskin (Dell) fra og med skoleåret 2021–22 til og med skoleåret 2024–25**  
-• Direkte til Dell (raskest 24/7):  
-  - Dell support: 67 11 75 16  
-  - https://www.dell.com/support/home/no-no  
-• Hjelp fra Komplett:  
-  - Telefon: 33 00 51 30 (08.00–16.00)  
-  - E-post: elevpc@komplettbedrift.no  
-  - Din side hos Komplett: https://www.komplett.no/
+---
 
-**Kjøpt maskin (HP) før skoleåret 2021–22**  
-• HP Support  
-  - Telefon: 23 50 20 19 (innvalg 3)  
-  - Åpningstid: Mandag–fredag 08.00–17.00 (unntatt helligdager)  
-• Kontakt Atea for avklaringer eller kvittering  
-  - https://www.atea.no/kundestotte/service-og-support/
+### PC – Asus (fra og med skoleåret 2025–26)
+- 📞 Telefon: 480 33 111  
+- 📧 E-post: elevpc@elkjop.no  
+- 🌍 Service og support: [elevpc-rogaland.elkjop.no](https://elevpc-rogaland.elkjop.no/#/cms/service--support)
 
-**Mac**  
-• Eplehuset kundesenter  
-  - Telefon: 73 20 24 00  
-  - E-post: elevmac.rogaland@eplehuset.no  
-  - Serviceportal: https://elevmac.no/rogaland-fylkeskommune  
-  - Forsikringsinfo (Allrisk): https://elevmac.no/rogaland-fylkeskommune
+---
 
-### Lånemaskin
-• Reparasjonstiden skal normalt ikke overstige fem virkedager.  
-• Ved overskridelse skal leverandør tilby tilsvarende lånemaskin.  
-• Innsending og retur samt lånemaskin er kostnadsfritt.  
-• Kontakt Komplett eller Eplehuset for avtale om lånemaskin.
+### PC – Dell (skoleårene 2021–22 til 2024–25)
+**Direkte til Dell (anbefales – døgnåpen):**
+- 📞 Telefon: 67 11 75 16  
+- 🌍 Nettside: [dell.com/support](https://www.dell.com/support/home/no-no)
 
-### Spørsmål om bestilling eller utlevering
+**Alternativt via Komplett:**
+- 📞 Telefon: 33 00 51 30 (08.00–16.00)  
+- 📧 E-post: elevpc@komplettbedrift.no  
+- 🌍 Komplett: [komplett.no](https://www.komplett.no/)
 
-**Elkjøp (Windows):**  
-- E-post: elevpc@elkjop.no  
-- Telefon: 480 33 111  
-- Nettside: https://elevpc-rogaland.elkjop.no/#/
+---
 
-**Eplehuset (Mac):**  
-- E-post: elevmac.rogaland@eplehuset.no  
-- Telefon: 73 20 24 00  
-- Nettside: https://elevmac.no/rogaland-fylkeskommune
+### PC – HP (før skoleåret 2021–22)
+- 📞 Telefon: 23 50 20 19 (innvalg 3)  
+- 🕒 Åpent mandag–fredag 08.00–17.00  
+- 🌍 Atea kundestøtte: [atea.no](https://www.atea.no/kundestotte/service-og-support/)
 
-### Kun PC: Installere operativsystem (OS) etter diskbytte
-Dersom disken i maskinen er byttet, må operativsystemet installeres på nytt.
+---
 
-# Spørsmål og svar om PC-ordningen
+### Lånemaskin ved reparasjon
+- Reparasjonstiden skal normalt ikke overstige 5 virkedager.  
+- Dersom det tar lenger tid, har du krav på lånemaskin – uten kostnad.  
+- Ta kontakt med Komplett eller Eplehuset for avtale om lånemaskin.
 
-## Hvorfor må jeg logge på med MinID eller BankID for å kjøpe?
-Det er for å sjekke at du får lov til å kjøpe maskin på ordningen.  
-Kun elever i vg1 i de videregående skolene i Rogaland fylkeskommune kan kjøpe på ordningen.
+---
 
-## Hvor mange maskiner kan jeg kjøpe?
-Kun én maskin per elev.
+### Spørsmål om bestilling eller utlevering?
 
-## Må jeg bruke skolekontoen min for å sette opp maskinen?
-Nei, og du bør ikke gjøre det heller.  
-Du får skolekonto:  
-https://www.rogfk.no/vare-tjenester/skole-og-utdanning/opplaring-i-skole/elev-pc-og-ikt/brukernavn-passord-tradlost-nett-og-utskrift/  
-Du får også M365-konto:  
-https://www.rogfk.no/vare-tjenester/skole-og-utdanning/opplaring-i-skole/elev-pc-og-ikt/microsoft-365-m365-konto/  
-Vi anbefaler å bruke en privat Microsoft-konto, siden skolekontoen slettes når du slutter som elev.
+**Elkjøp (Windows):**
+- 📧 E-post: elevpc@elkjop.no  
+- 📞 Telefon: 480 33 111  
+- 🌍 elevpc-rogaland.elkjop.no
 
-## Hva med programvare, må jeg kjøpe dette selv?
-Nei, du får programvaren du trenger av skolen eller laster den ned her:  
-https://www.rogfk.no/vare-tjenester/skole-og-utdanning/opplaring-i-skole/elev-pc-og-ikt/last-ned-programmer/
-
-## Kan jeg kjøpe i Vg2 eller Vg3? Eller som påbyggselev?
-Nei, ordningen gjelder kun når du går vg1 i offentlig videregående skole i Rogaland.  
-Subsidiene til maskin er lagt til vg1 slik at du kan kjøpe en maskin som varer hele skoleløpet.
-
-## Får jeg stipend?
-Ja, alle elever kan søke om stipend hos Lånekassen.  
-Prisen på grunnmodellen er tilpasset det du får i stipend over tre år.  
-Du må selv søke om stipendet. Les mer her:  
-https://www.rogfk.no/vare-tjenester/skole-og-utdanning/opplaring-i-skole/sok-okonomisk-stotte/
-
-## Kan jeg kjøpe maskin hos en annen leverandør og levere regningen til fylkeskommunen?
-Nei, for å få subsidiert maskin må du bruke våre avtaler med Elkjøp eller Eplehuset og deres bestillingssider.
-
-## Kan jeg kjøpe maskin et annet sted og få utbetalt pengene?
-Nei, subsidiering gjelder kun via våre godkjente leverandører (Komplett og Eplehuset).
-
-## Kan jeg bestille en annen maskin hos Elkjøp eller Eplehuset?
-Nei, for å få subsidiert (delvis betalt av fylkeskommunen) maskin kan du kun velge blant de modellene som er beskrevet i tilbudet.
-
-## Windows eller Mac?
-Alle elever i videregående skoler i Rogaland fylkeskommune skal ha en bærbar datamaskin til skolearbeidet. Nye Vg1-elever kan kjøpe PC eller Mac med rabatt gjennom fylkeskommunens ordning.  
-På Øksnevad vgs kan du bruke både Mac og PC. Bestilling åpner 10. juli.  
-
-Dersom du liker å arbeide med Mac, så er MacBook Air et solid og brukervennlig valg. IT-kontoret anbefaler kjøp av Allrisk-forsikring som dekker uhell som måtte skje. Dette er tross alt en større investering, og reparasjon på Mac er kostbart.  
-
-PC-ordningen tilbyr Asus Expertbook med i3-prosessor, som fungerer greit til enkle oppgaver. Prisen tilsvarer omtrent det du får i stipend over tre år. Har du behov for mer enn nettsurfing og Office 365, bør du vurdere en kraftigere PC.
-
-## Kan jeg bruke Chromebook? iPad? Er nemlig vant med det fra grunnskolen
-Det enkle svaret er nei. Men mange vil finne at det er tider og undervisningssituasjoner hvor det går helt fint.  
-
-Når vi likevel ikke anbefaler Chromebook eller iPad, er det fordi du kan få utfordringer med nettbaserte tester og eksamen. En del fag har også spesiell programvare som forutsetter Windows eller Mac.  
-
-Elever i Rogaland fylkeskommune får også Microsoft 365-bruker med tilhørende tjenester.  
-Vi kan ikke tilby Chromebook, siden vi ikke har avtale med Google om brukere og tjenester på denne plattformen.  
-
-Elever som har rett til individuell tilrettelagt opplæring og som får opplæring i grupper med redusert elevtall (hverdagslivstrening og arbeidstrening) kan imidlertid bruke og kjøpe iPad.  
-
-Les mer om iPad i individuell tilrettelagt opplæring:  
-https://www.rogfk.no/vare-tjenester/skole-og-utdanning/opplaring-i-skole/elev-pc-og-ikt/pc-ordningen/ipad-i-individuell-tilrettelagt-opplaring/
-
-## Hvorfor er det forskjell på subsidiebeløp mellom PC og Mac?
-Vi skal sikre gratis læremidler til elevene og tilbyr derfor datamaskin til pris tilsvarende tre ganger stipendet elevene får fra Lånekassen.  
-
-Derfor er maskinen subsidiert slik at elevens andel er 4 194,- (tre ganger årets grunnstipend på 1 398,-). Denne maskinen er PC-en, Dell Latitude 3440.  
-
-Når vi i tillegg ønsker å tilby Mac, kan vi ikke subsidiere disse like mye på grunn av kostnadene. Årsaken er at skattemyndighetene ikke anser det som lovpålagt, og fylkeskommunen får dermed en høyere kostnad når vi skal tilby disse i tillegg.  
-
-Likevel gir vi avslag på 1500 kroner på disse maskinene.
-
-Byas har laget et innslag hvor vi forklarer dette:  
-https://www.aftenbladet.no/byas/i/dnLpwA/byas-sjekker-hvorfor-faar-du-mindre-penger-tilbake-naar-du-velger-mac-som-skole-pc
-
-## Avbetaling, hva må jeg gjøre?
-Det er kun vg1-elever som kan kjøpe på avbetaling, og kun på grunnmodell Windows.  
-
-Du betaler første del av beløpet ved bestilling (kr. 1 398,-). Deretter vil fylkeskommunen sende faktura de to neste årene.  
-
-For å kunne kjøpe på avbetaling må en person over 18 år inngå elektronisk avtale med fylkeskommunen.
-
-**Slik gjør du:**
-1. Gå til siden for bestilling  
-2. Velg å bestille maskin på avbetaling  
-3. Fullfør kjøpet  
-4. Du vil få e-post med ordrebekreftelse fra Elkjøp – noter ordrenummer  
-5. Du får også en e-post med lenke til avbetalingsskjema  
-6. En voksen (over 18 år) logger på med ID-porten (BankID/MinID)  
-7. Fyll inn elevens fødselsnummer og klikk videre  
-8. Sjekk at personalia stemmer, og klikk videre (det er den voksnes personalia)  
-9. Fyll inn ordrenummer og send inn skjemaet
-
-## Hvor går jeg dersom den går i stykker?
-Se denne siden om support:  
-https://www.rogfk.no/vare-tjenester/skole-og-utdanning/opplaring-i-skole/elev-pc-og-ikt/pc-ordningen/support-og-kontaktinformasjon/
-
-Merk at Eplehuset er leverandør på Mac og iPad, mens for Windows er det to leverandører:  
-• Elkjøp – dersom du har kjøpt maskin fra og med skoleåret 2025–26 (Asus-maskiner)  
-• Komplett – dersom du har kjøpt maskin fra og med skoleåret 2021–22 til og med 2024–25 (Dell-maskiner)
-
-Skolene har ikke ansvar for maskinvaren og skal heller ikke reparere denne.  
-Imidlertid er skolen behjelpelig med programvare og har dessuten innkjøpt programvare til alle elever.  
-
-Se mer om programvare:  
-https://www.rogfk.no/vare-tjenester/skole-og-utdanning/opplaring-i-skole/elev-pc-og-ikt/last-ned-programmer/  
-
-Microsoft 365:  
-https://www.rogfk.no/vare-tjenester/skole-og-utdanning/opplaring-i-skole/elev-pc-og-ikt/microsoft-365-m365-konto/
-
-## Eier jeg eller låner jeg maskinen?
-Du eier maskinen selv, overtar fylkeskommunens rettigheter og holder kontakt med leverandøren ved eventuelle reparasjoner.
-
-Se kjøpsvilkår:  
-https://www.rogfk.no/vare-tjenester/skole-og-utdanning/opplaring-i-skole/elev-pc-og-ikt/pc-ordningen/kjopsvilkar/
-
-## Kan jeg hente maskinen når den er klar?
-Maskinen vil bli sendt i posten. Du vil få melding fra leverandøren når den sendes ut.  
-Dersom du bestilte før 31. juli, får du maskinen før skolestart.
-
-## Jeg gikk på privat skole/vgs i et annet fylke i fjor og skal gå vg2 i Rogaland nå. Hvorfor blir bestillingen avvist?
-Ordningen gjelder kun vg1-elever i offentlig videregående skole.  
-Dersom du har gått privat skole eller kommer fra et annet fylke, må du enten frikjøpe maskinen fra der du kommer fra, eller gjøre eget kjøp.  
-
-Unntaket er elever som kommer fra utlandet – se under.
-
-## Jeg startet på en av skolene deres, men byttet til privat skole. Hva gjør jeg?
-Vi kan ikke subsidiere maskiner til elever som ikke går i en av våre skoler.  
-Private skoler får egne midler. Derfor sender vi faktura på subsidiebeløpet til deg.  
-
-Dersom du har gått på en av våre skoler helt fram til 1. november, sender vi ikke ut faktura.
-
-## Jeg skal begynne hos dere i vg2, men startet i privat skole og kjøpte maskin hos dere. Må jeg betale subsidiebeløpet?
-Ja, det må du.  
-Du er velkommen til å bruke maskinen videre i vg2, men du blir ikke med i ordningen fra vg2.
-
-## Jeg gikk vg1 i utlandet og har fått avvist bestillingen – hvorfor?
-Ta kontakt med oss: tore.wersland@rogfk.no  
-Ordningen gjelder elever som går i vg1 (se over), men dette er et unntak fordi det ofte ikke finnes PC-ordninger i utlandet.  
-
-Vi klarer ikke alltid å fange opp dette automatisk, men gjør selvsagt om ved behov.
-
-## Jeg gikk på internasjonal skole i Norge og skal begynne på IB i Vg2. Gjelder ordningen for meg også?
-Ja, ordningen gjelder deg også – av samme grunn som for elever som kommer fra utlandet.  
-
-I bestillingsskjemaet hos leverandør velger du **Studiespesialisering** som utdanningsprogram.
+**Eplehuset (Mac):**
+- 📧 E-post: elevmac.rogaland@eplehuset.no  
+- 📞 Telefon: 73 20 24 00  
+- 🌍 elevmac.no/rogaland-fylkeskommune
