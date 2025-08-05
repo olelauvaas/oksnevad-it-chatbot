@@ -30,9 +30,13 @@ Denne brukeren gir tilgang til ulike tjenester skolen bruker.
 Elever på Vg2/Vg3 bruker sin eksisterende brukerkonto.  
 
 Elever bruker Feide for å logge inn i InSchool.  
-De har også tilgang til **Min InSchool-app**.
+De har også tilgang til **Min InSchool-app**, som gir rask oversikt over timeplan, fravær, meldinger og mer.
 
-📱 Brukerstøtte for Min InSchool-appen:  
+📱 Last ned Min InSchool-appen her:  
+- **iPhone / iPad (App Store):** https://apps.apple.com/ie/app/min-inschool/id1488297186  
+- **Android (Google Play):** https://play.google.com/store/apps/details?id=com.visma.inschoolmobile&hl=no
+
+🛠️ Brukerstøtte for Min InSchool-appen:  
 👉 https://inschool.zendesk.com/hc/no/sections/4410974938257-Min-InSchool-app
 
 🎥 Se introduksjonsvideo for elever:  
