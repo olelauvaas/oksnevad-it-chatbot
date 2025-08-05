@@ -21,7 +21,13 @@ Ja, det er et ekstra steg – men det er også en effektiv mur mot uvedkommende.
 
 Du trenger en app for å motta sikkerhetskoder. Vi anbefaler **Microsoft Authenticator**:
 
-🔗 [Last ned for Windows, Mac og mobil](https://www.microsoft.com/nb-no/security/mobile-authenticator-app)
+- **iPhone / iPad (iOS):**  
+  [Last ned fra App Store](https://apps.apple.com/no/app/microsoft-authenticator/id983156458)
+
+- **Android:**  
+  [Last ned fra Google Play](https://play.google.com/store/apps/details?id=com.azure.authenticator)
+
+> 📌 Microsoft Authenticator finnes *kun for mobil og nettbrett* – ikke for PC eller Mac.
 
 ---
 
