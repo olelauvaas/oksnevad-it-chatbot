@@ -24,9 +24,9 @@ For å skrive ut må du laste opp dokumentet ditt på en nettside, logge inn med
 - Hovedbygg 2. etasje  
 - Biblioteket  
 - Hus 1000  
-- Anleggsbygg *(etter avtale med lærer)*  
+- Anleggsbygg *(hente utskrift etter avtale med lærer)*  
 - Maskinverksted kontor  
-- Arbeidstrening *(etter avtale med lærer)*  
+- Arbeidstrening *(hente utskrift etter avtale med lærer)*  
 - Ridehallen (pauserom)  
 - Administrasjonen *(ansatte)*
 
