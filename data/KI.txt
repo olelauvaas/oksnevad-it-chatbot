@@ -26,6 +26,9 @@ Kjent for å være smart, allsidig og brukervennlig. Den finnes både som nettsi
 Modellene GPT-3.5 og GPT-4o er mest vanlige.  
 NB: Gratisversjonen bruker GPT-3.5 – den betalte gir tilgang til GPT-4o.
 
+**Bruk i skolen:**  
+Rogaland fylkeskommune har ikke egen lisens på ChatGPT, og vi kan derfor ikke bruke den direkte i undervisning eller vurdering. Årsaken er at samtaler lagres utenfor Europa og personvernet ikke kan garanteres. Du kan likevel bruke den privat, men aldri til å legge inn personopplysninger om deg selv eller andre.
+
 ### 🌐 Gemini (Google)
 Tidligere kjent som Bard. Sterk på oppdaterte data og gode Google-integrasjoner.  
 Flott til research, oppsummeringer og integrasjon med Google Workspace (Docs, Slides osv).
