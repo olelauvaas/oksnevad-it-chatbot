@@ -16,7 +16,7 @@ os.environ["OPENAI_API_KEY"] = openai_api_key
 
 # 🔍 Chatmodell (vennlig og informativ, faktabasert men litt personlighet)
 llm = ChatOpenAI(
-    model="gpt-5o",  # Nyeste og beste modellen via OpenAI API
+    model="gpt-4o",  # Nyeste og beste modellen via OpenAI API
     temperature=0.3  # Lavere temperatur for færre hallusinasjoner
 )
 # 📄 Hent og del opp alle .txt-filer fra mappen "data"
